@@ -699,6 +699,7 @@ h3.myProfession{
 .project .projectItem_inner .projectImg img{
     width: 350px;
     display: block;
+    object-fit: cover;
 }
 
 /* CONTACT */
